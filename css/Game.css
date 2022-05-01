@@ -1,0 +1,124 @@
+.u-section-1 {
+  background-image: url("https://img2.goodfon.com/wallpaper/nbig/b/b0/sci-fi-black-hole-blue-star.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 661px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 588px;
+  min-height: 207px;
+  margin: 236px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 11px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 18px auto 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 437px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 878px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 1027px;
+  height: 493px;
+  margin: 137px auto 60px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 836px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 940px;
+    height: 451px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 720px;
+    height: 345px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 540px;
+    height: 259px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 220px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 163px;
+  }
+}
