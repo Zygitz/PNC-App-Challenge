@@ -5,6 +5,9 @@ Problem Statement: What might you do to help educate and promote healthy eating 
 Solution: Team developed dynamic website aimyourhealth.ga
 
 <h3>Features:</h3>
+
 - working login system
+
 - user-interactive game
+
 - styled informative data
